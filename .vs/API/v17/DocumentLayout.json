@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\dinht\\source\\repos\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\dto\\request-response\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\dto\\request-response\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\dto\\request-response\\updateblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\dto\\request-response\\updateblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\dto\\request-response\\createblogpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\dto\\request-response\\createblogpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\repositories\\interface\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\repositories\\interface\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\repositories\\implementation\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\repositories\\implementation\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\entites\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\entites\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\dto\\models\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\dto\\models\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\dto\\models\\rolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\dto\\models\\rolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\migrations\\20250322161747_removefk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\migrations\\20250322161747_removefk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|c:\\users\\dinht\\source\\repos\\api\\api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324D8F41-B20C-492D-B0CE-86879E02D11D}|API\\API.csproj|solutionrelative:api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,159 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\UserRepository.cs",
-              "RelativeDocumentMoniker": "API\\Repositories\\Implementation\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\UserRepository.cs",
-              "RelativeToolTip": "API\\Repositories\\Implementation\\UserRepository.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowDQAAAAIAAAAAAAAAA==",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T00:26:29.806Z",
+              "WhenOpened": "2025-03-23T14:03:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:56:49.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Models\\UserDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Models\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Models\\UserDTO.cs",
-              "RelativeToolTip": "API\\DTO\\Models\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAvwDYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T00:13:12.166Z"
+              "WhenOpened": "2025-03-23T13:51:32.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Request-Response\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Request-Response\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Request-Response\\LoginDTO.cs",
-              "RelativeToolTip": "API\\DTO\\Request-Response\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T00:08:13.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateBlogPostRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Request-Response\\UpdateBlogPostRequestDto.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Request-Response\\UpdateBlogPostRequestDto.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Request-Response\\UpdateBlogPostRequestDto.cs",
-              "RelativeToolTip": "API\\DTO\\Request-Response\\UpdateBlogPostRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:21:29.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250322161747_RemoveFK.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Migrations\\20250322161747_RemoveFK.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\20250322161747_RemoveFK.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Migrations\\20250322161747_RemoveFK.cs",
-              "RelativeToolTip": "API\\Migrations\\20250322161747_RemoveFK.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:17:47.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Entites\\User.cs",
-              "RelativeDocumentMoniker": "API\\Entites\\User.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Entites\\User.cs",
-              "RelativeToolTip": "API\\Entites\\User.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:14:32.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlogPost.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Entites\\BlogPost.cs",
-              "RelativeDocumentMoniker": "API\\Entites\\BlogPost.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Entites\\BlogPost.cs",
-              "RelativeToolTip": "API\\Entites\\BlogPost.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:14:17.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogPostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\BlogPostRepository.cs",
-              "RelativeDocumentMoniker": "API\\Repositories\\Implementation\\BlogPostRepository.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\BlogPostRepository.cs",
-              "RelativeToolTip": "API\\Repositories\\Implementation\\BlogPostRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:57:53.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BlogPostsController.cs",
               "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Controllers\\BlogPostsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BlogPostsController.cs",
               "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Controllers\\BlogPostsController.cs",
               "RelativeToolTip": "API\\Controllers\\BlogPostsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvxwAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv1QAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:00:14.887Z"
+              "WhenOpened": "2025-03-23T13:51:23.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFQAAAARAAAAAAAAAA==",
+              "Title": "BlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA6wCcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:03:33.288Z"
+              "WhenOpened": "2025-03-23T13:41:09.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateBlogPostRequest.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Request-Response\\CreateBlogPostRequest.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Request-Response\\CreateBlogPostRequest.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Request-Response\\CreateBlogPostRequest.cs",
-              "RelativeToolTip": "API\\DTO\\Request-Response\\CreateBlogPostRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:02:06.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BlogPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Models\\BlogPostDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Models\\BlogPostDTO.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Models\\BlogPostDTO.cs",
-              "RelativeToolTip": "API\\DTO\\Models\\BlogPostDTO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:14:02.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RolesDTO.cs",
-              "DocumentMoniker": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Models\\RolesDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Models\\RolesDTO.cs",
-              "ToolTip": "C:\\Users\\dinht\\source\\repos\\API\\API\\DTO\\Models\\RolesDTO.cs",
-              "RelativeToolTip": "API\\DTO\\Models\\RolesDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:13:58.06Z"
+              "WhenOpened": "2025-03-23T13:41:08.453Z",
+              "EditorCaption": ""
             }
           ]
         }

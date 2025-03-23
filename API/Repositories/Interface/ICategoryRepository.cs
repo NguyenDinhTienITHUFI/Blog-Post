@@ -9,9 +9,7 @@ namespace API.Repositories.Interface
         Task<IEnumerable<Category>> GetAllAsync(
             string? query = null,
             string? sortBy = null,
-            string? sortDirection = null,
-            int? pageNumber = 1,
-            int? pageSize = 100);
+            string? sortDirection = null);
 
         Task<Category?> GetById(Guid id);
 

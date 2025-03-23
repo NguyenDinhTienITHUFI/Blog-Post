@@ -1,4 +1,5 @@
 ﻿using API.Entites;
+using Microsoft.AspNetCore.Mvc;
 
 namespace API.Repositories.Interface
 {

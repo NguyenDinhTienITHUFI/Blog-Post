@@ -38,9 +38,7 @@ namespace API.Repositories.Implementation
         public async Task<IEnumerable<Category>> GetAllAsync(
             string? query = null,
             string? sortBy = null,
-            string? sortDirection = null,
-            int? pageNumber = 1,
-            int? pageSize = 100)
+            string? sortDirection = null)
         {
             // Query
             var categories = dbContext.Categories.AsQueryable();
@@ -75,8 +73,7 @@ namespace API.Repositories.Implementation
 
 
 
-            var skipResults = (pageNumber - 1) * pageSize;
-            categories = categories.Skip(skipResults ?? 0).Take(pageSize ?? 100);
+          
 
             return await categories.ToListAsync();
         }

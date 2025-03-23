@@ -19,7 +19,7 @@ namespace API.Controllers
             this.categoryRepository = categoryRepository;
         }
         [HttpPost]
-       
+        [Authorize(Roles="Admin")]
         public async Task<IActionResult> CreateCategory([FromBody] CreateCategoryRequest request)
         {
 
@@ -48,13 +48,11 @@ namespace API.Controllers
         public async Task<IActionResult> GetAllCategories(
             [FromQuery] string? query,
             [FromQuery] string? sortBy,
-            [FromQuery] string? sortDirection,
-            [FromQuery] int? pageNumber,
-            [FromQuery] int? pageSize)
+            [FromQuery] string? sortDirection)
         {
             
             var caterogies = await categoryRepository
-                .GetAllAsync(query, sortBy, sortDirection, pageNumber, pageSize);
+                .GetAllAsync(query, sortBy, sortDirection);
 
 
 
